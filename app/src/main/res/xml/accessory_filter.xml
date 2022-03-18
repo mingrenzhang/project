@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <usb-accessory
+        Manufacturer="pateo"
+        Model_Name="QingLink"
+        Description="QingLink AOA"
+        Version="1.0"
+        Serial_Number="12345678"
+        />
+    <!--<usb-accessory
+        manufacturer="Baidu"
+        model="CarLife"
+        description="Baidu CarLife"
+        version="1.0.0"/>-->
+</resources>

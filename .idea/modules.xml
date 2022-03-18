@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/UsbAccessory.iml" filepath="$PROJECT_DIR$/.idea/UsbAccessory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UsbAccessory.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UsbAccessory.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sopcast-sdk/UsbAccessory.sopcast-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/sopcast-sdk/UsbAccessory.sopcast-sdk.iml" />
+    </modules>
+  </component>
+</project>
