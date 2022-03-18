@@ -25,7 +25,7 @@ public class NormalSendQueue implements ISendQueue {
     //    private static final int NORMAL_FRAME_BUFFER_SIZE = 800;
     // TODO modify by xu.wang tcp发送缓存区大小从800改为300
     //--------------------------------------------------------------
-    private static final int NORMAL_FRAME_BUFFER_SIZE = 1024*1024; //缓存区大小
+    private static final int NORMAL_FRAME_BUFFER_SIZE = 16*1024; //缓存区大小
     private static final int SCAN_MAX_TIME = 5;     //仲裁次数,每循环SCAN_MAX_TIME 次,每次sleep(DEFAULT_SLEEP_TIME),会执行一次检查网速的代码
     private static final int DEFAULT_SLEEP_TIME = 200;  //
     private static final int DEFAULT_NEGATIVE_COUNT = 3;    //循环SCAN_MAX_TIME 次,有 DEFAULT_NEGATIVE_COUNT 次输入queue的帧小于取走的帧
