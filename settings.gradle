@@ -1,0 +1,2 @@
+include ':app', ':video_play'
+rootProject.name = "AOAHost"
